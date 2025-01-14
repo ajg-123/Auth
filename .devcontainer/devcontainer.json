@@ -1,9 +1,7 @@
 {
 	"name": "Node.js",
 	"build": {
-		"dockerfile": "Dockerfile",
-		"dockerfile":"mongodb.gitpod.dockerfile",
-		"dockerfile":"workspacefull.gitpod.dockerfile"
+		"dockerfile": "Dockerfile"
 	},
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {
